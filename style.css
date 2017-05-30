@@ -3,3 +3,8 @@
   STYLESHEET:
 	selector { property:value }
 */
+
+
+p { 
+    color: pink;
+}
